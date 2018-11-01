@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Apps</string>
+
+    <array name="link">
+        <item>Link1</item>
+        <item>Link2</item>
+        <item>Link3</item>
+        <item>Link4</item>
+        <item>Link5</item>
+    </array>
+
+    <array name="activity">
+        <item>Activity1</item>
+        <item>Activity2</item>
+        <item>Activity3</item>
+        <item>Activity4</item>
+        <item>Activity5</item>
+    </array>
+</resources>
